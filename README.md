@@ -6,5 +6,7 @@ Results
 By typing in different elements as the filters, the result show two matches. To ensure accurate results type in lower case letters and do not have spaces at the end of the text. Click outside the input box or press enter to activate the filter. To reset the filter click the UFO Sightings at the top left of the website or refreash the page
 
 
-![UFO] (static/images/nasa.jpg)
+![](UFOs/Users/szk/Desktop/Analysis Projects/UFOs/Screenshot 2023-02-08 at 11.51.57 PM.png/)
+
+
 
