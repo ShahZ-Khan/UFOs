@@ -14,3 +14,9 @@ By typing in different elements as the filters, the result show two matches. To 
 ()
  
 
+Summary
+DrawBack
+The data is outdated, and the website has an old fashion design. Letters must be typed in correctly to produce results.
+
+Recommendations
+As soon as words are typed results should start to show. Articles showing the latest news can be an effective tool. Design the webpage to make it more interactive. 
