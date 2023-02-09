@@ -6,7 +6,8 @@ Results
 By typing in different elements as the filters, the result show two matches. To ensure accurate results type in lower case letters and do not have spaces at the end of the text. Click outside the input box or press enter to activate the filter. To reset the filter click the UFO Sightings at the top left of the website or refreash the page
 
 
-![](UFOs/Users/szk/Desktop/Analysis Projects/UFOs/Screenshot 2023-02-08 at 11.51.57 PM.png/)
+![]<img width="1170" alt="Screenshot 2023-02-08 at 11 51 57 PM" src="https://user-images.githubusercontent.com/114197558/217723480-a4239bdd-23d1-450a-8118-848b2ff609c9.png">
+()
 
 
 
